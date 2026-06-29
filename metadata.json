@@ -1,0 +1,6 @@
+{
+  "name": "VibeWeather",
+  "description": "An ultra-modern, minimal, pitch-black real-time weather application featuring live forecasting, air quality indexing, search, favorites speed dial, and auto-location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
